@@ -2,7 +2,8 @@
   "recommendations": [
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "octref.vetur"
+    "octref.vetur",
+    "abdelaziz18003.quasar-snippets"
   ],
   "unwantedRecommendations": [
     "hookyqr.beautify",
