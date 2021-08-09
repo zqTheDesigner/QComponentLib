@@ -1,1 +1,8 @@
 // app global css in SCSS form
+.s-border {
+  border: 1px solid $grey-4;
+}
+
+.s-round-sm {
+  border-radius: 0.75rem;
+}
